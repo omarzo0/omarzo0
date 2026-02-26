@@ -1,4 +1,4 @@
-# Hi there 👋! I'm Omar Khaled Masoud
+# Hi there 👋! I'm Omar Khaled 
 
 ### 💻 MERN Full Stack Developer | Passionate about Building Scalable Web Solutions
 
